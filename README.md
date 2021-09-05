@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Frontend Web, Mobile Android App, UI UX Design
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galihif)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
