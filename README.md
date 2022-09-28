@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Galih Indra Firmansyah</h1>
+<h1 align="center">Hi! 👋, I'm Galih Indra Firmansyah</h1>
 <h3 align="center">A native android developer and software engineering student</h3>
 
 <p align="center"> 
