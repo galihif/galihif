@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Android Development with Kotlin and jetpack compose**
 
-- 👨‍💻 All of my projects are available at [https://gif-tech.web.app/](https://gif-tech.web.app/)
+- 👨‍💻 All of my projects are available at [My Website](https://gif-tech.web.app/)
 
 - 📫 How to reach me **id.giftech@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/galihif/](https://www.linkedin.com/in/galihif/)
+- 📄 Know about my experiences [Portfolio](https://s.id/GalihifPortfolio)
 
 
 ### :point_down: Connect with me
