@@ -10,8 +10,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=galihif&column=6&rank=-C,-?" />
 </p>
 
-- 🔭 I’m currently working on **APIK Indonesia as Android Developer Intern**
-
 - 🌱 I’m currently learning **Android Development with Kotlin and jetpack compose**
 
 - 👨‍💻 All of my projects are available at [My Website](https://gif-tech.web.app/)
